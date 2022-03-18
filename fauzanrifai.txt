@@ -1,4 +1,6 @@
 Nama				: Muhammad Fauzan Rifai
 NIM				: 6701204010
-Tempat Tanggal Lahir:	: Tegal, 08 Agustus 2000
-IPK Terakhir		: 3,58
+Tempat Tanggal Lahir:		: Tegal, 08 Agustus 2000
+IPK Terakhir			: 3,58
+Hobi				: Renang
+Cita-cita			: Pengusaha
